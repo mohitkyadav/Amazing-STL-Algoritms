@@ -13,6 +13,5 @@ install:
   - pip2 install -r pip2-requirements.txt
 
 script:
-  - ./.bin/test_running.sh
   - coala --ci
   - editorconfig-tools check **/*
