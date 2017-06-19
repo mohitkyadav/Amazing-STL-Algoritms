@@ -9,9 +9,6 @@ env:
   PATH: $GOPATH/bin:$PATH
 
 install:
-  - ./.bin/install_apt.sh
-  - ./.bin/install_go.sh
-  - ./.bin/install_npm.sh
   - pip3 install -r pip3-requirements.txt
   - pip2 install -r pip2-requirements.txt
 
