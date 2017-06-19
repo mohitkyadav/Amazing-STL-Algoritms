@@ -1,3 +1,0 @@
-coala-bears
-numpy
-requests
