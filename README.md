@@ -2,4 +2,4 @@
 
 Detailed description
 
-http://www.cplusplus.com/reference/algorithm/<algo-name>/
+http://www.cplusplus.com/reference/algorithm/**algo-name**/
