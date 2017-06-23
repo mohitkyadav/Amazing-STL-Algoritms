@@ -6,11 +6,11 @@ using namespace std;
 
 void print(vector<int> v)
 {
-    for(auto elem : v)
-    {
-        cout << elem << " ";
-    }
-    cout << "\n";
+	for(auto elem : v)
+	{
+		cout << elem << " ";
+	}
+	cout << "\n";
 }
 
 int main()

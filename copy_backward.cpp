@@ -10,8 +10,8 @@ int main()
 	vector<int> v(source.size());
 	copy_backward(begin(source), end(source), end(v));
 	for(auto elem : v)
-    {
-        cout << elem << " ";
-    }
+	{
+		cout << elem << " ";
+	}
 	return 0;
 }
