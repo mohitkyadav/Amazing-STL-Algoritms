@@ -1,4 +1,4 @@
-# Amazing-STL-Algorithms
+# Amazing STL Algorithms
 
 Detailed description
 
